@@ -17,7 +17,8 @@
 	// "features": {},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [
-		4040
+		4040,
+		15002
 	],
 	"customizations": {
 		"vscode": {

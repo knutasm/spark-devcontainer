@@ -1,0 +1,7 @@
+/data
+/metastore_db
+/spark-warehouse
+/warehouse
+/*.log
+src/spark-warehouse
+src/warehouse
